@@ -1,0 +1,4 @@
+face_recognition
+face_recognition_models
+numpy
+scipy>=0.17.0

@@ -1,0 +1,1 @@
+docker run -d -p 5001:5001 -v <local_images>:/root/face_recognition <images>:<tag>
